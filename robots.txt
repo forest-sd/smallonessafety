@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://smallonessafety.pages.dev/sitemap.xml
