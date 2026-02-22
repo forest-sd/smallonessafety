@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://smallonessafety.pages.dev/sitemap.xml
+Sitemap: https://smallonessafety.com/sitemap.xml
